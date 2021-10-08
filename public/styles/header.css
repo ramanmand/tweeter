@@ -1,0 +1,18 @@
+header {
+  position: relative;
+  width: 40%;
+  max-width: 500px;
+  height: 400px;
+  top: 160px;
+  background-color: #ccbe62;;
+  background-image: url(http://www.transparenttextures.com/patterns/absurdity.png);
+  margin-left: 4em;
+
+}
+#avatar {
+  display: block;
+  margin: auto;
+}
+div h2 {
+    text-align: center;
+}
