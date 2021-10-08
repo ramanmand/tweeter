@@ -24,3 +24,17 @@ body {
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
+ main.container {
+   float:right;
+   position:relative;
+   top:140px;
+   width:50%;
+   padding-left: 3em;
+   margin:auto;
+ }
+ #newTweet {
+   font-family: 'Source Sans Pro', sans-serif;
+   font-size:18px;
+   font-style:bold;
+   color:#f4f1ec;
+ }
