@@ -1,0 +1,12 @@
+.new-tweet {
+    display: block; 
+    position: relative;
+    width:90%;
+    box-sizing: content-box;
+    padding: 2rem;
+    border-color: black;
+    border-style: none;
+    background-color:inherit;
+    max-width: 500px;
+    text-align: right;
+}
